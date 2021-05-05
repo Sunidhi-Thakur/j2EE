@@ -8,10 +8,11 @@ import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
-
 /**
  *
  * @author Sunidhi Thakur
+ * 
+ * creating a sample Servlet using Servlet interface
  */
 public class FirstServlet implements Servlet{
     ServletConfig conf;
